@@ -17,7 +17,7 @@
 ---
 
 ## 👨‍💻 About Me
-
+```python
 class Developer:
     def __init__(self):
         self.name       = "Meet Kanakiya J."
@@ -35,7 +35,7 @@ class Developer:
 
 me = Developer()
 me.say_hi()
-` ` `
+```
 
 ---
 
