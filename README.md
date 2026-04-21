@@ -1,7 +1,7 @@
 <!-- Header Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%20I'm%20[YourName]&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%20I'm%20Meet%20Kanakiya&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Web%20Development%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
 
 </div>
 
@@ -10,7 +10,7 @@
 <!-- Typing SVG -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Lover+%F0%9F%92%9A;Always+Learning+New+Things+%F0%9F%93%9A;Building+Cool+Projects+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+🚀;React+%2B+Node.js+Lover+💚;Java+%26+C%2B%2B+Enthusiast+☕;Always+Learning+New+Things+📚;Building+Cool+Web+Projects+🔥)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,45 +21,49 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name       = "Your Name"
-        self.location   = "Jamnagar, Gujarat, India 🇮🇳"
+        self.name       = "Meet Kanakiya J."
+        self.location   = "Porbandar, Gujarat, India 🇮🇳"
         self.role       = "Full Stack Developer"
-        self.languages  = ["Python", "JavaScript", "TypeScript"]
-        self.interests  = ["AI/ML", "Web Dev", "Open Source"]
-        self.fun_fact   = "I debug with coffee ☕ and music 🎵"
+        self.languages  = ["Java", "C / C++", "JavaScript"]
+        self.frontend   = ["React"]
+        self.backend    = ["Node.js"]
+        self.databases  = ["MongoDB", "MySQL"]
+        self.interests  = ["Web Development"]
+        self.fun_fact   = "I turn chai ☕ into clean code 💻"
 
     def say_hi(self):
-        print("Thanks for visiting my GitHub! Let's build something amazing!")
+        print("Thanks for visiting my GitHub! Let's build something amazing! 🚀")
 
 me = Developer()
 me.say_hi()
-```
+` ` `
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🚀 Frameworks & Libraries
+### 🚀 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🗄️ Databases & Cloud
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -67,14 +71,14 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Meet-Kanakiya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meet-Kanakiya&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Meet-Kanakiya&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -84,7 +88,7 @@ me.say_hi()
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Meet-Kanakiya&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -94,7 +98,7 @@ me.say_hi()
 
 <div align="center">
 
-![snake gif](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Meet-Kanakiya/Meet-Kanakiya/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -104,7 +108,7 @@ me.say_hi()
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Meet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Meet-Kanakiya&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -114,10 +118,9 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO.com)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meet-kanakiya-a5b951367)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://meet-kanakiya-portfolio-website.netlify.app/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanakiyameet@gmail.com)
 
 </div>
 
@@ -125,8 +128,25 @@ me.say_hi()
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Meet-Kanakiya&color=blueviolet&style=for-the-badge)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
+```
+
+---
+
+> ⚠️ **One important note** — in the "About Me" section, the 3 backticks ` ``` ` that close the Python code block — make sure they look like this exactly:
+> ` ``` ` (3 backticks, no spaces between them). I added spaces in my display so it doesn't break here, but in your actual file remove the spaces.
+
+---
+
+### Steps to paste on GitHub:
+1. Go to your repo `Meet-Kanakiya/Meet-Kanakiya`
+2. Click `README.md` → click ✏️ edit
+3. Select all old text → delete it
+4. Paste this code
+5. Click **Commit changes** ✅
+
+Done! 🎉 Let me know if you want the 🐍 Snake animation setup too!
