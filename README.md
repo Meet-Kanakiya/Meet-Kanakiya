@@ -18,7 +18,6 @@
 
 ## 👨‍💻 About Me
 
-```python
 class Developer:
     def __init__(self):
         self.name       = "Meet Kanakiya J."
@@ -133,20 +132,3 @@ me.say_hi()
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
-```
-
----
-
-> ⚠️ **One important note** — in the "About Me" section, the 3 backticks ` ``` ` that close the Python code block — make sure they look like this exactly:
-> ` ``` ` (3 backticks, no spaces between them). I added spaces in my display so it doesn't break here, but in your actual file remove the spaces.
-
----
-
-### Steps to paste on GitHub:
-1. Go to your repo `Meet-Kanakiya/Meet-Kanakiya`
-2. Click `README.md` → click ✏️ edit
-3. Select all old text → delete it
-4. Paste this code
-5. Click **Commit changes** ✅
-
-Done! 🎉 Let me know if you want the 🐍 Snake animation setup too!
