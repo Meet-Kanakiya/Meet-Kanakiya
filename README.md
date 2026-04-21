@@ -88,7 +88,7 @@ me.say_hi()
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Meet-Kanakiya&theme=dark&no-frame=true&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Meet-Kanakiya&theme=tokyonight&hide_border=true" />
 
 </div>
 
